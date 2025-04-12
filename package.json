@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/sapiente-quis-neque-aliquid",
-  "version": "8.24.323",
+  "version": "8.24.324",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -798,5 +798,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/sapiente-quis-neque-aliquid/issues"
   },
-  "packageManager": "yarn@4.9.0"
+  "packageManager": "yarn@4.9.1"
 }
